@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+/ios/
+/android/
+*.log
+.env*
+!.env.example
+.DS_Store
+/dist-ios/
+__pycache__/
